@@ -26,3 +26,4 @@ Um scanner de portas TCP leve, simples e funcional desenvolvido em Python. O scr
    ```bash
    git clone [https://github.com/NGCGet/PortScan.git](https://github.com/NGCGet/PortScan.git)
    cd PortScan
+   python portscan.py google.com 22,80,443,8080
